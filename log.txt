@@ -1,0 +1,13 @@
+Entrada
+portao 1 categoria 1  joao bloco 410 assento 9
+portao 3 categoria 3  maria bloco 502 assento 7
+portao 1 categoria 1  ciclano bloco 620 assento 15
+portao 2 categoria 2  zezim bloco 310 assento 22
+portao 1 categoria 3  fulano bloco 500 assento 20
+portao 2 categoria 2  beltrano bloco 330 assento 30
+portao 2 categoria 3  marcos bloco 500 assento 21
+portao 1 none 
+Total
+portao 1 3 torcedor(es) 
+portao 2 3 torcedor(es) 
+portao 3 1 torcedor(es) 

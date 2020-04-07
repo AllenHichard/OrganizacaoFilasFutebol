@@ -1,0 +1,7 @@
+joao categoria 1 bloco 410 assento 9
+maria categoria 3 bloco 502 assento 7
+zezim categoria 2 bloco 310 assento 22
+ciclano categoria 1 bloco 620 assento 15
+beltrano categoria 2 bloco 330 assento 30
+fulano categoria 3 bloco 500 assento 20
+marcos categoria 3 bloco 500 assento 21
